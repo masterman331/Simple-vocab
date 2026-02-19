@@ -242,3 +242,6 @@ Feel free to use, modify, and distribute for personal or commercial projects. At
 ---
 
 *Made with Python & Flask • Happy Learning! 🌟*
+
+> **Disclaimer:**  
+> This project has been vibe-coded please use it cautiously. - Masterman331
