@@ -1,0 +1,2345 @@
+[
+  {
+    "lesson_name": "Lesson 1: Países (Země)",
+    "words": [
+      {
+        "spanish": "Alemania",
+        "czech": "Německo",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "Brasil",
+        "czech": "Brazílie",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "Eslovaquia",
+        "czech": "Slovensko",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "España",
+        "czech": "Španělsko",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "Francia",
+        "czech": "Francie",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "Hungría",
+        "czech": "Maďarsko",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "Inglaterra",
+        "czech": "Anglie",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "Italia",
+        "czech": "Itálie",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "República Checa",
+        "czech": "Česká republika",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "Rusia",
+        "czech": "Rusko",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 2: Nacionalidades (Národnosti - Muži)",
+    "words": [
+      {
+        "spanish": "alemán",
+        "czech": "Němec",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "checo",
+        "czech": "Čech",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "eslovaco",
+        "czech": "Slovák",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "español",
+        "czech": "Španěl",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "francés",
+        "czech": "Francouz",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "inglés",
+        "czech": "Angličan",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "italiano",
+        "czech": "Ital",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "japonés",
+        "czech": "Japonec",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ruso",
+        "czech": "Rus",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 3: Nacionalidades (Národnosti - Ženy)",
+    "words": [
+      {
+        "spanish": "alemana",
+        "czech": "Němka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "checa",
+        "czech": "Češka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "eslovaca",
+        "czech": "Slovenka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "española",
+        "czech": "Španělka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "francesa",
+        "czech": "Francouzka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "inglesa",
+        "czech": "Angličanka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "italiana",
+        "czech": "Italka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "japonesa",
+        "czech": "Japonka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rusa",
+        "czech": "Ruska",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 4: Lenguas (Jazyky)",
+    "words": [
+      {
+        "spanish": "alemán",
+        "czech": "němčina",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "checo",
+        "czech": "čeština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "eslovaco",
+        "czech": "slovenština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "español",
+        "czech": "španělština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "francés",
+        "czech": "francouzština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "húngaro",
+        "czech": "maďarština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "inglés",
+        "czech": "angličtina",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "italiano",
+        "czech": "italština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "japonés",
+        "czech": "japonština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "portugués",
+        "czech": "portugalština",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ruso",
+        "czech": "ruština",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 5: Mundo y Gente (Svět a Lidé)",
+    "words": [
+      {
+        "spanish": "capital",
+        "czech": "hlavní město",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "idioma",
+        "czech": "jazyk",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "lengua",
+        "czech": "jazyk",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "moneda",
+        "czech": "měna",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "país",
+        "czech": "země",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "presidente",
+        "czech": "prezident",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rey",
+        "czech": "král",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "gente",
+        "czech": "lidé",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "apellido",
+        "czech": "příjmení",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "compañero",
+        "czech": "spolužák",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "compañera",
+        "czech": "spolužačka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nombre",
+        "czech": "jméno",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "profesor",
+        "czech": "profesor",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "profesora",
+        "czech": "profesorka",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 6: Verbos y Otras palabras 1 (Slovesa a další slova 1)",
+    "words": [
+      {
+        "spanish": "estudiar",
+        "czech": "studovat",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hablar",
+        "czech": "mluvit",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "llamarse",
+        "czech": "jmenovat se",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ser",
+        "czech": "být",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cansado",
+        "czech": "unavený",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cansada",
+        "czech": "unavená",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cómo",
+        "czech": "jak",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "de",
+        "czech": "od",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "dónde",
+        "czech": "odkud",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "o",
+        "czech": "nebo",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "qué",
+        "czech": "co",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "quién",
+        "czech": "kdo",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "sí",
+        "czech": "ano",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "verdad",
+        "czech": "pravda",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "y",
+        "czech": "a",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 7: Saludar y despedirse (Základní fráze)",
+    "words": [
+      {
+        "spanish": "Hola",
+        "czech": "Ahoj",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Buenos días.",
+        "czech": "Dobré ráno.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Buenas tardes.",
+        "czech": "Dobré odpoledne.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Buenas noches.",
+        "czech": "Dobrý večer.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Hasta luego.",
+        "czech": "Na shledanou.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Adiós.",
+        "czech": "Sbohem.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Qué tal?",
+        "czech": "Jak se máš?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "muy bien",
+        "czech": "velmi dobře",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "bien",
+        "czech": "dobře",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "mal",
+        "czech": "špatně",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "regular",
+        "czech": "ujde to",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 8: Presentarse (Představování)",
+    "words": [
+      {
+        "spanish": "¿Cómo te llamas?",
+        "czech": "Jak se jmenuješ?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Me llamo José.",
+        "czech": "Jmenuji se José.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Soy José.",
+        "czech": "Jsem José.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Tú eres Carlos.",
+        "czech": "Ty jsi Carlos.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Quién es?",
+        "czech": "Kdo je to?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Este es...",
+        "czech": "Tohle je...",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Esta es...",
+        "czech": "Tohle je...",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿De dónde eres?",
+        "czech": "Odkud jsi?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Soy de la República Checa.",
+        "czech": "Jsem z České republiky.",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 9: Comunicarse (Domluva)",
+    "words": [
+      {
+        "spanish": "¿Hablas español?",
+        "czech": "Mluvíš španělsky?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Sí, un poco.",
+        "czech": "Ano, trochu.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "No, ni una palabra.",
+        "czech": "Ne, ani slovo.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Perdón.",
+        "czech": "Promiň.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Lo siento.",
+        "czech": "Omlouvám se.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "No pasa nada.",
+        "czech": "Nic se neděje.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Por favor.",
+        "czech": "Prosím.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Gracias.",
+        "czech": "Děkuji.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "De nada.",
+        "czech": "Není zač.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Entiendes?",
+        "czech": "Rozumíš?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Cómo se dice?",
+        "czech": "Jak se to řekne?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Qué significa?",
+        "czech": "Co to znamená?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "No sé.",
+        "czech": "Nevím.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "No entiendo.",
+        "czech": "Nerozumím.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Otra vez, por favor.",
+        "czech": "Ještě jednou, prosím.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Más despacio, por favor.",
+        "czech": "Pomaleji, prosím.",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 10: Escuela 1 (Škola 1)",
+    "words": [
+      {
+        "spanish": "biblioteca",
+        "czech": "knihovna",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "bolígrafo",
+        "czech": "propiska",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "boli",
+        "czech": "propiska",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "bolso",
+        "czech": "kabelka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "borrador",
+        "czech": "houba",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "caja",
+        "czech": "krabice",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "clase",
+        "czech": "třída",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cuaderno",
+        "czech": "sešit",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "diccionario",
+        "czech": "slovník",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "disco",
+        "czech": "CD",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "estuche",
+        "czech": "penál",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "fotocopia",
+        "czech": "kopie",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "goma",
+        "czech": "guma",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "lápiz",
+        "czech": "tužka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "lápices de colores",
+        "czech": "pastelky",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 11: Escuela 2 (Škola 2)",
+    "words": [
+      {
+        "spanish": "libro",
+        "czech": "kniha",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mapa",
+        "czech": "mapa",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mesa",
+        "czech": "stůl",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mochila",
+        "czech": "batoh",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "móvil",
+        "czech": "mobil",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ordenador",
+        "czech": "počítač",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "papel",
+        "czech": "papír",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "papelera",
+        "czech": "odpadkový koš",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "pizarra",
+        "czech": "tabule",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "planta",
+        "czech": "rostlina",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "póster",
+        "czech": "plakát",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "puerta",
+        "czech": "dveře",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "radio",
+        "czech": "rádio",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "revista",
+        "czech": "časopis",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rotulador",
+        "czech": "fixa",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "silla",
+        "czech": "židle",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "televisión",
+        "czech": "televize",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tele",
+        "czech": "televize",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tiza",
+        "czech": "křída",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ventana",
+        "czech": "okno",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 12: Adjetivos 1 (Přídavná jména 1)",
+    "words": [
+      {
+        "spanish": "aburrido",
+        "czech": "nudný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "aburrida",
+        "czech": "nudná",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "bonito",
+        "czech": "hezký",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "bonita",
+        "czech": "hezká",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "corto",
+        "czech": "krátký",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "corta",
+        "czech": "krátká",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "difícil",
+        "czech": "těžký",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "divertido",
+        "czech": "zábavný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "divertida",
+        "czech": "zábavná",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "fácil",
+        "czech": "lehký",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "feo",
+        "czech": "ošklivý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "fea",
+        "czech": "ošklivá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "grande",
+        "czech": "velký",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 13: Adjetivos 2 (Přídavná jména 2)",
+    "words": [
+      {
+        "spanish": "importante",
+        "czech": "důležitý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "interesante",
+        "czech": "zajímavý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "largo",
+        "czech": "dlouhý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "larga",
+        "czech": "dlouhá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nuevo",
+        "czech": "nový",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nueva",
+        "czech": "nová",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "pequeño",
+        "czech": "malý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "pequeña",
+        "czech": "malá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "viejo",
+        "czech": "starý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "vieja",
+        "czech": "stará",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 14: Colores y Manual (Barvy a Učebnice)",
+    "words": [
+      {
+        "spanish": "amarillo",
+        "czech": "žlutý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "amarilla",
+        "czech": "žlutá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "azul",
+        "czech": "modrý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "blanco",
+        "czech": "bílý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "blanca",
+        "czech": "bílá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "marrón",
+        "czech": "hnědý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "negro",
+        "czech": "černý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "negra",
+        "czech": "černá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rojo",
+        "czech": "červený",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "roja",
+        "czech": "červená",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "verde",
+        "czech": "zelený",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "deberes",
+        "czech": "úkol",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "diálogo",
+        "czech": "rozhovor",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ejercicio",
+        "czech": "cvičení",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "foto",
+        "czech": "fotka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "frase",
+        "czech": "věta",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "gramática",
+        "czech": "gramatika",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "texto",
+        "czech": "text",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "vídeo",
+        "czech": "video",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "vocabulario",
+        "czech": "slovíčka",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 15: Verbos y Números (Slovesa a Čísla)",
+    "words": [
+      {
+        "spanish": "cantar",
+        "czech": "zpívat",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "completar",
+        "czech": "doplňovat",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "escuchar",
+        "czech": "poslouchat",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "escribir",
+        "czech": "psát",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "haber",
+        "czech": "být",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "leer",
+        "czech": "číst",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "preguntar",
+        "czech": "ptát se",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "responder",
+        "czech": "odpovídat",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tener",
+        "czech": "mít",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ver",
+        "czech": "vidět",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "visitar",
+        "czech": "navštěvovat",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "uno",
+        "czech": "jedna",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "dos",
+        "czech": "dva",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tres",
+        "czech": "tři",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cuatro",
+        "czech": "čtyři",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cinco",
+        "czech": "pět",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "seis",
+        "czech": "šest",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "siete",
+        "czech": "sedm",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ocho",
+        "czech": "osm",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nueve",
+        "czech": "devět",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "diez",
+        "czech": "deset",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 16: Otras palabras 2 (Další slova 2)",
+    "words": [
+      {
+        "spanish": "a veces",
+        "czech": "někdy",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cuánto",
+        "czech": "kolik",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "en",
+        "czech": "v",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "este",
+        "czech": "tento",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "esta",
+        "czech": "tato",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "estos",
+        "czech": "tito",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "estas",
+        "czech": "tyto",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "esto",
+        "czech": "toto",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mucho",
+        "czech": "hodně",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mucha",
+        "czech": "hodně",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "para",
+        "czech": "pro",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "por qué",
+        "czech": "proč",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "porque",
+        "czech": "protože",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "también",
+        "czech": "také",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tampoco",
+        "czech": "taky ne",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 17: Comunicación de escuela (Školní komunikace)",
+    "words": [
+      {
+        "spanish": "¿Qué es esto?",
+        "czech": "Co je to?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Es una mochila.",
+        "czech": "To je batoh.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Cómo es la clase?",
+        "czech": "Jak vypadá třída?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Es grande.",
+        "czech": "Je velká.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿De qué color es el bolso?",
+        "czech": "Jakou barvu má kabelka?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Es marrón.",
+        "czech": "Je hnědá.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Qué hay en la clase?",
+        "czech": "Co je ve třídě?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Hay un profesor.",
+        "czech": "Je tam profesor.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Cuántos estudiantes hay?",
+        "czech": "Kolik je tam studentů?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Hay tres estudiantes.",
+        "czech": "Jsou tam tři studenti.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Estudiamos mucho.",
+        "czech": "Učíme se hodně.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "A veces cantamos.",
+        "czech": "Někdy zpíváme.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Me gusta escuchar música.",
+        "czech": "Rád poslouchám hudbu.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "No me gusta ver la tele.",
+        "czech": "Nebaví mě sledovat televizi.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Por qué estudias español?",
+        "czech": "Proč se učíš španělsky?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Estudio español porque es bonito.",
+        "czech": "Učím se španělsky, protože je hezká.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Estudio español para viajar.",
+        "czech": "Učím se španělsky, abych mohl cestovat.",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 18: Familia 1 (Rodina 1)",
+    "words": [
+      {
+        "spanish": "abuelo",
+        "czech": "dědeček",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "abuela",
+        "czech": "babička",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "abuelos",
+        "czech": "prarodiče",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cuñado",
+        "czech": "švagr",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cuñada",
+        "czech": "švagrová",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hermano",
+        "czech": "bratr",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hermana",
+        "czech": "sestra",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hermanos",
+        "czech": "sourozenci",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hijo",
+        "czech": "syn",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hija",
+        "czech": "dcera",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hijos",
+        "czech": "děti",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "madre",
+        "czech": "matka",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 19: Familia 2 (Rodina 2)",
+    "words": [
+      {
+        "spanish": "marido",
+        "czech": "manžel",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mujer",
+        "czech": "žena",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nieto",
+        "czech": "vnuk",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nieta",
+        "czech": "vnučka",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "novio",
+        "czech": "přítel",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "novia",
+        "czech": "přítelkyně",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "padre",
+        "czech": "otec",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "padres",
+        "czech": "rodiče",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "primo",
+        "czech": "bratranec",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "prima",
+        "czech": "sestřenice",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "sobrino",
+        "czech": "synovec",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "sobrina",
+        "czech": "neteř",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tío",
+        "czech": "strýc",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tía",
+        "czech": "teta",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 20: Carácter 1 (Povaha 1)",
+    "words": [
+      {
+        "spanish": "alegre",
+        "czech": "veselý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "amable",
+        "czech": "milý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "antipático",
+        "czech": "nepříjemný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "antipática",
+        "czech": "nepříjemná",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "buena persona",
+        "czech": "hodný",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "dulce",
+        "czech": "roztomilý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "egoísta",
+        "czech": "sobecký",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "hablador",
+        "czech": "upovídaný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "habladora",
+        "czech": "upovídaná",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "inteligente",
+        "czech": "inteligentní",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mala persona",
+        "czech": "zlý",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 21: Carácter 2 (Povaha 2)",
+    "words": [
+      {
+        "spanish": "nervioso",
+        "czech": "nervózní",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nerviosa",
+        "czech": "nervózní",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "raro",
+        "czech": "zvláštní",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rara",
+        "czech": "zvláštní",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "serio",
+        "czech": "vážný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "seria",
+        "czech": "vážná",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "simpático",
+        "czech": "sympatický",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "simpática",
+        "czech": "sympatická",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "sociable",
+        "czech": "společenský",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tonto",
+        "czech": "hloupý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "tonta",
+        "czech": "hloupá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "trabajador",
+        "czech": "pracovitý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "trabajadora",
+        "czech": "pracovitá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "vago",
+        "czech": "líný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "vaga",
+        "czech": "líná",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 22: Aspecto 1 (Vzhled 1)",
+    "words": [
+      {
+        "spanish": "alto",
+        "czech": "vysoký",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "alta",
+        "czech": "vysoká",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "bajo",
+        "czech": "malý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "baja",
+        "czech": "malá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "barba",
+        "czech": "vousy",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "bigote",
+        "czech": "knír",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "calvo",
+        "czech": "plešatý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "calva",
+        "czech": "plešatá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "castaño",
+        "czech": "hnědý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "delgado",
+        "czech": "hubený",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "delgada",
+        "czech": "hubená",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "gafas",
+        "czech": "brýle",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "gordo",
+        "czech": "tlustý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "gorda",
+        "czech": "tlustá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "guapo",
+        "czech": "hezký",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "guapa",
+        "czech": "hezká",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 23: Aspecto 2 (Vzhled 2)",
+    "words": [
+      {
+        "spanish": "igual",
+        "czech": "stejný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "joven",
+        "czech": "mladý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "liso",
+        "czech": "rovný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "llevar",
+        "czech": "nosit",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mayor",
+        "czech": "starší",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "menor",
+        "czech": "mladší",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "moreno",
+        "czech": "tmavovlasý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "morena",
+        "czech": "tmavovlasá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "ojo",
+        "czech": "oko",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "pelirrojo",
+        "czech": "zrzavý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "pelirroja",
+        "czech": "zrzavá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "pelo",
+        "czech": "vlasy",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "pendiente",
+        "czech": "náušnice",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rizado",
+        "czech": "kudrnatý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rizada",
+        "czech": "kudrnatá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rubio",
+        "czech": "světlovlasý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "rubia",
+        "czech": "světlovlasá",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "sombrero",
+        "czech": "klobouk",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 24: Estado Civil y Adverbios (Rodinný stav a Příslovce)",
+    "words": [
+      {
+        "spanish": "casado",
+        "czech": "ženatý",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "casada",
+        "czech": "vdaná",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "divorciado",
+        "czech": "rozvedený",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "divorciada",
+        "czech": "rozvedená",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "soltero",
+        "czech": "svobodný",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "soltera",
+        "czech": "svobodná",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "bastante",
+        "czech": "hodně",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "muy",
+        "czech": "velmi",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "nada",
+        "czech": "vůbec",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "un poco",
+        "czech": "trochu",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 25: Calendario (Kalendář)",
+    "words": [
+      {
+        "spanish": "año",
+        "czech": "rok",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "cumpleaños",
+        "czech": "narozeniny",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "edad",
+        "czech": "věk",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "fecha",
+        "czech": "datum",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mes",
+        "czech": "měsíc",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "enero",
+        "czech": "leden",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "febrero",
+        "czech": "únor",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "marzo",
+        "czech": "březen",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "abril",
+        "czech": "duben",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "mayo",
+        "czech": "květen",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "junio",
+        "czech": "červen",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "julio",
+        "czech": "červenec",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "agosto",
+        "czech": "srpen",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "septiembre",
+        "czech": "září",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "octubre",
+        "czech": "říjen",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "noviembre",
+        "czech": "listopad",
+        "type": "Word",
+        "notes": ""
+      },
+      {
+        "spanish": "diciembre",
+        "czech": "prosinec",
+        "type": "Word",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 26: Comunicación familiar (Rodinná komunikace)",
+    "words": [
+      {
+        "spanish": "Tengo un hermano.",
+        "czech": "Mám bratra.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Se llama Honza.",
+        "czech": "Jmenuje se Honza.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Cuántos primos tienes?",
+        "czech": "Kolik máš bratranců?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "No veo mucho a mis abuelos.",
+        "czech": "Prarodiče moc nevídám.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Cuántos años tienes?",
+        "czech": "Kolik ti je?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Tengo dieciocho años.",
+        "czech": "Je mi osmnáct.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Cómo es?",
+        "czech": "Jaký je?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Es muy inteligente.",
+        "czech": "Je velmi chytrý.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "No es nada egoísta.",
+        "czech": "Vůbec není sobec.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Es bastante guapo.",
+        "czech": "Je dost hezký.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Pero un poco gordo.",
+        "czech": "Ale trochu tlustý.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Tiene pelo largo.",
+        "czech": "Má dlouhé vlasy.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Lleva gafas.",
+        "czech": "Nosí brýle.",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "lesson_name": "Lesson 27: Fechas y posesión (Data a Vlastnictví)",
+    "words": [
+      {
+        "spanish": "¿Cuándo es tu cumpleaños?",
+        "czech": "Kdy máš narozeniny?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Mi cumpleaños es el trece de octubre.",
+        "czech": "Mám narozeniny třináctého října.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Hoy es el diecinueve de mayo.",
+        "czech": "Dnes je devatenáctého května.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Rambo es nuestro perro.",
+        "czech": "Rambo je náš pes.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "¿Estos son sus hijos?",
+        "czech": "Tohle jsou vaše děti?",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Feliz cumpleaños.",
+        "czech": "Všechno nejlepší.",
+        "type": "Phrase",
+        "notes": ""
+      },
+      {
+        "spanish": "Felicidades.",
+        "czech": "Gratuluji.",
+        "type": "Phrase",
+        "notes": ""
+      }
+    ]
+  }
+]
